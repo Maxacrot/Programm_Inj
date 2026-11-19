@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="snma_o-cDtL8HDEYw1E6">
+    <mxGraphModel dx="1232" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zar0oEba9Y9ktR015amj-4" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zar0oEba9Y9ktR015amj-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-6" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zar0oEba9Y9ktR015amj-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ввод числа" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-8" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zar0oEba9Y9ktR015amj-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Передача числа" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-10" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zar0oEba9Y9ktR015amj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-11" connectable="0" parent="zar0oEba9Y9ktR015amj-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="число = 0" vertex="1">
+          <mxGeometry relative="1" x="-0.1762" y="-2" as="geometry">
+            <mxPoint x="1" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-16" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zar0oEba9Y9ktR015amj-12" value="число != 0">
+          <mxGeometry relative="1" x="-0.2059" y="-12" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="375" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-19" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="zar0oEba9Y9ktR015amj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Вывод сообщения: &quot;Число равно 0&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-17" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zar0oEba9Y9ktR015amj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Удвоить число" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-20" edge="1" parent="1" source="zar0oEba9Y9ktR015amj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zar0oEba9Y9ktR015amj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Вывести результат на экран" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="90" width="90" x="355" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="zar0oEba9Y9ktR015amj-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="755" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
